@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "video-downloader-skill": {
+      "name": "支持从 YouTube、Bilibili、抖音及所有 yt-dlp 兼容平台下载视频，可自动选择最佳分辨率、合并音视频并清理文件名",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=video-downloader-skill",
+      "source": "skillhub",
+      "version": "1.0.1"
+    }
+  }
+}

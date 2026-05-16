@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+export PYTHONPATH="/Users/wenguanggu/MyProjects/Python/WebVideoDownloader/.skillhub-home/vendor${PYTHONPATH:+:$PYTHONPATH}"
+exec /usr/local/bin/python3.14 -m yt_dlp "$@"
